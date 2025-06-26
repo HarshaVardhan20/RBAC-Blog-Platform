@@ -32,7 +32,7 @@ const Login = () => {
         autoClose: 2000,
       });
       setTimeout(() => {
-        navigate('/');
+        user.role==='admin' ? navigate('/dashboard'): navigate('/');
       }, 2000);
     }
     catch(err){
