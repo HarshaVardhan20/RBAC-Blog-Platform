@@ -49,3 +49,29 @@ npm run dev
 
 ---
 
+
+### Screen shots
+
+### Signup Page
+
+![image](https://github.com/user-attachments/assets/66db4f0d-8473-4db7-b4a1-22721f2ac970)
+
+
+
+### Login Page
+
+![image](https://github.com/user-attachments/assets/728549c3-ba00-4b6a-9780-fc663360920f)
+
+
+### Blogs for users
+
+![image](https://github.com/user-attachments/assets/8fc1f84d-d100-4b6a-a645-0514a0c00bf0)
+
+
+### Admin Dashboard
+![image](https://github.com/user-attachments/assets/b34c2d41-3281-4e1f-aefc-bd3080d00df6)
+
+### Admin can create, update and delete blogs
+
+![image](https://github.com/user-attachments/assets/d4d61904-bc82-4867-93b5-d99c8608e95b)
+
